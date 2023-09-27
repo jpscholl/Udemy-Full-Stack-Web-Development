@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\bin\Debug\net6.0-windows\EnumForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\bin\Debug\net6.0-windows\EnumForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\bin\Debug\net6.0-windows\EnumForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\bin\Debug\net6.0-windows\EnumForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\bin\Debug\net6.0-windows\EnumForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\refint\EnumForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\EnumForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EnumForm\EnumForm\obj\Debug\net6.0-windows\ref\EnumForm.dll

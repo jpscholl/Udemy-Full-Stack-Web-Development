@@ -1,0 +1,17 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.FrmEmployeeDetails.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\bin\Debug\net6.0-windows\EncapsulationForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\bin\Debug\net6.0-windows\EncapsulationForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\bin\Debug\net6.0-windows\EncapsulationForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\bin\Debug\net6.0-windows\EncapsulationForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\bin\Debug\net6.0-windows\EncapsulationForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\refint\EncapsulationForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\EncapsulationForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\EncapsulationForm\EncapsulationForm\obj\Debug\net6.0-windows\ref\EncapsulationForm.dll

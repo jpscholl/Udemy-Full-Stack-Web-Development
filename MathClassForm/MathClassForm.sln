@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClassForm", "MathClassForm\MathClassForm.csproj", "{34B46221-5094-4C41-AD96-47BB17A8C917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B46221-5094-4C41-AD96-47BB17A8C917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B46221-5094-4C41-AD96-47BB17A8C917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B46221-5094-4C41-AD96-47BB17A8C917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B46221-5094-4C41-AD96-47BB17A8C917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7FE5C3-BD91-403C-8A3B-BE2718FCAA82}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\bin\Debug\net6.0-windows\InterfaceForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\bin\Debug\net6.0-windows\InterfaceForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\bin\Debug\net6.0-windows\InterfaceForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\bin\Debug\net6.0-windows\InterfaceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\bin\Debug\net6.0-windows\InterfaceForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\refint\InterfaceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\InterfaceForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InterfaceForm\InterfaceForm\obj\Debug\net6.0-windows\ref\InterfaceForm.dll

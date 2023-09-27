@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\bin\Debug\net6.0-windows\TimerClassForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\bin\Debug\net6.0-windows\TimerClassForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\bin\Debug\net6.0-windows\TimerClassForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\bin\Debug\net6.0-windows\TimerClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\bin\Debug\net6.0-windows\TimerClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\refint\TimerClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\TimerClassForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\TimerClassForm\TimerClassForm\obj\Debug\net6.0-windows\ref\TimerClassForm.dll

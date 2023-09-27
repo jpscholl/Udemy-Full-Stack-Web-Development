@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\bin\Debug\net6.0-windows\AbstractTrial.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\bin\Debug\net6.0-windows\AbstractTrial.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\bin\Debug\net6.0-windows\AbstractTrial.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\bin\Debug\net6.0-windows\AbstractTrial.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\bin\Debug\net6.0-windows\AbstractTrial.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\refint\AbstractTrial.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\AbstractTrial.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\AbstractTrial\AbstractTrial\obj\Debug\net6.0-windows\ref\AbstractTrial.dll

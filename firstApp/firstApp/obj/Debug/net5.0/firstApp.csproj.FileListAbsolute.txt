@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.runtimeconfig.dev.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\bin\Debug\net5.0\firstApp.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.csproj.AssemblyReference.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\refint\firstApp.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\firstApp.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\firstApp\firstApp\obj\Debug\net5.0\ref\firstApp.dll

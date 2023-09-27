@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\bin\Debug\net6.0-windows\InheritanceForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\bin\Debug\net6.0-windows\InheritanceForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\bin\Debug\net6.0-windows\InheritanceForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\bin\Debug\net6.0-windows\InheritanceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\bin\Debug\net6.0-windows\InheritanceForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\refint\InheritanceForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\InheritanceForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\InheritanceForm\InheritanceForm\obj\Debug\net6.0-windows\ref\InheritanceForm.dll

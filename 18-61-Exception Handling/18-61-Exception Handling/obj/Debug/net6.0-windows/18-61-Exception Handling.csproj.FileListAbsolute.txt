@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\bin\Debug\net6.0-windows\18-61-Exception Handling.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\bin\Debug\net6.0-windows\18-61-Exception Handling.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\bin\Debug\net6.0-windows\18-61-Exception Handling.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\bin\Debug\net6.0-windows\18-61-Exception Handling.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\bin\Debug\net6.0-windows\18-61-Exception Handling.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\_18_61_Exception_Handling.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\refint\18-61-Exception Handling.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\18-61-Exception Handling.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\18-61-Exception Handling\18-61-Exception Handling\obj\Debug\net6.0-windows\ref\18-61-Exception Handling.dll

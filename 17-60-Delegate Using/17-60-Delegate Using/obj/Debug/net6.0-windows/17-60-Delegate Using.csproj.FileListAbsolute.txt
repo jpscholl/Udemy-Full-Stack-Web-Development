@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\bin\Debug\net6.0-windows\17-60-Delegate Using.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\bin\Debug\net6.0-windows\17-60-Delegate Using.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\bin\Debug\net6.0-windows\17-60-Delegate Using.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\bin\Debug\net6.0-windows\17-60-Delegate Using.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\bin\Debug\net6.0-windows\17-60-Delegate Using.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\_17_60_Delegate_Using.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\refint\17-60-Delegate Using.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\17-60-Delegate Using.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\17-60-Delegate Using\17-60-Delegate Using\obj\Debug\net6.0-windows\ref\17-60-Delegate Using.dll

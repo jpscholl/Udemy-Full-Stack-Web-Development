@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\bin\Debug\net6.0-windows\PartialClassForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\bin\Debug\net6.0-windows\PartialClassForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\bin\Debug\net6.0-windows\PartialClassForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\bin\Debug\net6.0-windows\PartialClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\bin\Debug\net6.0-windows\PartialClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\refint\PartialClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\PartialClassForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PartialClassForm\PartialClassForm\obj\Debug\net6.0-windows\ref\PartialClassForm.dll

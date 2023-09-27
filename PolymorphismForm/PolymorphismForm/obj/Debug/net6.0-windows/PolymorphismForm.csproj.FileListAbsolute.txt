@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\bin\Debug\net6.0-windows\PolymorphismForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\bin\Debug\net6.0-windows\PolymorphismForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\bin\Debug\net6.0-windows\PolymorphismForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\bin\Debug\net6.0-windows\PolymorphismForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\bin\Debug\net6.0-windows\PolymorphismForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\refint\PolymorphismForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\PolymorphismForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\PolymorphismForm\PolymorphismForm\obj\Debug\net6.0-windows\ref\PolymorphismForm.dll

@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\bin\Debug\net6.0-windows\RandomClassForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\bin\Debug\net6.0-windows\RandomClassForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\bin\Debug\net6.0-windows\RandomClassForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\bin\Debug\net6.0-windows\RandomClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\bin\Debug\net6.0-windows\RandomClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\refint\RandomClassForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\RandomClassForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\RandomClassForm\RandomClassForm\obj\Debug\net6.0-windows\ref\RandomClassForm.dll

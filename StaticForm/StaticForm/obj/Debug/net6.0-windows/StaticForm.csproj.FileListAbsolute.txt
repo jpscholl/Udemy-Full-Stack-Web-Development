@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\bin\Debug\net6.0-windows\StaticForm.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\bin\Debug\net6.0-windows\StaticForm.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\bin\Debug\net6.0-windows\StaticForm.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\bin\Debug\net6.0-windows\StaticForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\bin\Debug\net6.0-windows\StaticForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\refint\StaticForm.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\StaticForm.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\StaticForm\StaticForm\obj\Debug\net6.0-windows\ref\StaticForm.dll

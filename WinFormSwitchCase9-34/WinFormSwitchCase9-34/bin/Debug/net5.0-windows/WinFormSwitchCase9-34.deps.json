@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormSwitchCase9-34/1.0.0": {
+        "runtime": {
+          "WinFormSwitchCase9-34.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormSwitchCase9-34/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

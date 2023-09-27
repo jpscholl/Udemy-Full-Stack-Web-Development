@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormSwitchCase9-34", "WinFormSwitchCase9-34\WinFormSwitchCase9-34.csproj", "{0E755A47-5EDE-4C6C-AAD7-724D39559CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E755A47-5EDE-4C6C-AAD7-724D39559CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E755A47-5EDE-4C6C-AAD7-724D39559CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E755A47-5EDE-4C6C-AAD7-724D39559CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E755A47-5EDE-4C6C-AAD7-724D39559CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43D1C52-C089-499B-972D-5A9A996BCDE5}
+	EndGlobalSection
+EndGlobal

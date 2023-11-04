@@ -1,0 +1,16 @@
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\bin\Debug\net6.0-windows\DirectoryClasses.exe
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\bin\Debug\net6.0-windows\DirectoryClasses.deps.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\bin\Debug\net6.0-windows\DirectoryClasses.runtimeconfig.json
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\bin\Debug\net6.0-windows\DirectoryClasses.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\bin\Debug\net6.0-windows\DirectoryClasses.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.Form1.resources
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.csproj.GenerateResource.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.AssemblyInfoInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.AssemblyInfo.cs
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\refint\DirectoryClasses.dll
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.pdb
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\DirectoryClasses.genruntimeconfig.cache
+C:\Users\AeonNova\Desktop\Let's get back to coding\Udemy\Full Stack Web Development\DirectoryClasses\DirectoryClasses\obj\Debug\net6.0-windows\ref\DirectoryClasses.dll
